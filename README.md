@@ -4,14 +4,6 @@ Design Patterns
 Thanks
 ------
 
-Fonts used in sample application:
-
-* [Bombing](http://qkila.com)
-* [Dark Net Warrior](http://www.imagex-fonts.com)
-* [Jenna Sue](http://www.jennasuedesign.com)
-* [Levi Brush](http://loremipsum.ro)
-* [Orange Juice](http://brittneymurphydesign.com)
-
 Awesome tools for code quality improvement:
 
 * [Android Lint](http://developer.android.com/tools/help/lint.html)
