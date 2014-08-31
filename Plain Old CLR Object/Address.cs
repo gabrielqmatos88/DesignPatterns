@@ -16,9 +16,9 @@
  */
 
 using System;
-using TinyType.State;
+using Pattern.State;
 
-namespace TinyType
+namespace Pattern
 {
     /// <summary>
     /// Igor Morais
