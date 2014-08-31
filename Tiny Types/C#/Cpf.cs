@@ -19,7 +19,7 @@ using System;
 using System.Linq;
 using System.Text;
 
-namespace TinyType
+namespace Pattern
 {
     /// <summary>
     /// Igor Morais

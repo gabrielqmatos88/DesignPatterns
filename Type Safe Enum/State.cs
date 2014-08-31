@@ -17,7 +17,7 @@
 
 using System;
 
-namespace TinyType
+namespace Pattern
 {
     /// <summary>
     /// Igor Morais
