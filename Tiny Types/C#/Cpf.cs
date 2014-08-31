@@ -73,7 +73,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <param name="number">The Cpf number.</param>
         public Cpf(string number)
@@ -82,7 +82,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <param name="number"></param>
         /// <returns>True if the string have only numbers, otherwise return false.</returns>
@@ -103,7 +103,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <param name="sum"></param>
         /// <returns></returns>
@@ -115,7 +115,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <param name="number"></param>
         /// <returns>True if the Cpf number is valid, otherwise return false.</returns>
@@ -144,7 +144,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <param name="number"></param>
         /// <returns></returns>
@@ -163,7 +163,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <param name="number"></param>
         /// <returns></returns>
@@ -178,7 +178,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <param name="number"></param>
         /// <returns>True if the Cpf number have a valid format, otherwise return false.</returns>
@@ -215,7 +215,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <param name="number"></param>
         /// <returns>True if the Cpf number is valid, otherwise return false.</returns>
@@ -264,7 +264,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <returns>The unformatted Cpf number.</returns>
         public string GetUnformattedNumber()
@@ -273,7 +273,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <returns>The formatted Cpf number.</returns>
         public string GetFormattedNumber()
@@ -286,7 +286,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <param name="number">The Cpf number.</param>
         public void SetNumber(string number)
@@ -300,7 +300,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <returns>True if the Cpf number is valid, otherwise return false.</returns>
         public bool IsValid()
