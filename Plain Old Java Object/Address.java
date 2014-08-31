@@ -15,9 +15,9 @@
  *
  */
 
-package tinytype;
+package pattern;
 
-import tinytype.State;
+import pattern.State;
 
 /**
  * @author Igor Morais

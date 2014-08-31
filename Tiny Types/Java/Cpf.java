@@ -15,7 +15,7 @@
  *
  */
 
-package tinytype;
+package pattern;
 
 /**
  * @author Igor Morais
