@@ -24,7 +24,7 @@ namespace TinyType
     /// Igor Morais
     /// mor41s.1gor@gmail.com
     /// </summary>
-    public class Address
+    public sealed class Address
     {
         public long Id { get; set; }
         public string Street { get; set; }
