@@ -59,7 +59,7 @@ namespace TinyType
         public readonly string Acronym { get; private set; }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <param name="id"></param>
         /// <param name="name"></param>
@@ -72,7 +72,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
@@ -92,7 +92,7 @@ namespace TinyType
         }
 
         /// <summary>
-        /// 
+        ///
         /// </summary>
         /// <returns></returns>
         public static State[] Values()

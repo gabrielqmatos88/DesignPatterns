@@ -23,7 +23,7 @@ import tinytype.State;
  * @author Igor Morais
  * @author mor41s.1gor@gmail.com
  */
-public class Address {
+public final class Address {
 
     private long id;
     private String street;
