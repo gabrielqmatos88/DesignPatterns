@@ -15,7 +15,7 @@
  *
  */
 
-package com.hollowsoft.library.utility.app;
+package pattern;
 
 /**
  * @author Igor Morais
